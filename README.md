@@ -6,3 +6,4 @@ well it's a clock with the whole exception that it is inside a diy case made fro
 
 #photos
 
+https://photos.app.goo.gl/EUwosH6Za8XSB4pa6
