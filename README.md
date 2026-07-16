@@ -42,6 +42,8 @@ $6.98 for [arduino Uno](https://www.amazon.com/Development-ATmega328P-CH340G-Str
 # Code
 
 Click [here](https://github.com/Nikolaossamaras/star-time/blob/main/star_time_code.ino)
+### Warning 
+the clock does not get it's information from the internet it just counts the seconds so be careful when you set up the clock in the code to , so it matches your local time
 
 # Credits
 -[Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE) - wrote the code on it 
